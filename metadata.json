@@ -1,0 +1,6 @@
+{
+  "name": "Salim",
+  "description": "Apple-grade real dialer & phone app for Android with Liquid Glass UI, spring physics, and full telephony integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
